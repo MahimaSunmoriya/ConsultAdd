@@ -21,7 +21,7 @@ print("before swap \n x", x,"\n y", y)
 (x,y) = (y,x)
 print("after swap \n x", x,"\n y", y)
 
-'''
+
 #version2
 input_var = eval(raw_input("enter number of your choice"))
 print(input_var)
@@ -39,7 +39,7 @@ else:
     z = input1 +input2
     result = z+30
     print("result: ",result)
-'''
+
 #6
 ch = eval(input("enter value of your choice"))
 print(type(ch))
